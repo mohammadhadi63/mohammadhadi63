@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @mohammadhadi63
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi 👋 My name is Mohammadhadi Farokhi
+=====================================
 
-<!---
-mohammadhadi63/mohammadhadi63 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+\-MSc Computer Science - DBA - Industrial managment - Data Science
+
+* 🌍  I'm based in IRAN (now)
+* ✉️  You can contact me at [mohammad.hadi63@gmail.com](mailto:mohammad.hadi63@gmail.com)
+* 🚀  I'm currently working on [AmolPump](http://t.me/AMOLPUMP)
+* 🧠  I'm learning AI ML/DL
+* 🤝  I'm open to collaborating on -Development and Maintenance of Software Systems -Industrial System and Equipment Development Consultant/Manager
