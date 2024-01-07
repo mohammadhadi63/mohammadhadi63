@@ -7,24 +7,11 @@ Hi 👋 My name is Mohammadhadi Farokhi
 *   ✉️  You can contact me at [mohammad.hadi63@gmail.com](mailto:mohammad.hadi63@gmail.com)
 *   🚀  I'm currently working on [AmolPump](http://t.me/AMOLPUMP)
 *   🧠  I'm learning AI ML/DL
-*   🤝  I'm open to collaborating on -Development and Maintenance of Software Systems -Industrial System and Equipment Development Consultant/Managerسلام 👋 اسم من محمدهادی فرخی است
-=====================================
-
-\-MSc علوم کامپیوتر - DBA - مدیریت صنعتی - علوم داده
-
-* 🌍 من در ایران مستقر هستم (در حال حاضر)
-* ✉️ شما می توانید با من در تماس باشید [mohammad.hadi63@gmail.com](mailto:mohammad.hadi63@gmail.com)
-* 🚀 من در حال حاضر در [AmolPump] (http://t.me/AMOLPUMP) کار می کنم
-* 🧠 من AI ML / DL را یاد می گیرم
-* 🤝 من باز به همکاری در -توسعه و نگهداری از سیستم های نرم افزاری - سیستم های صنعتی و تجهیزات توسعه مشاور / مدیر### Skills 
-### مهارت ها 
+*   🤝  I'm open to collaborating on -Development and Maintenance of Software Systems -Industrial System and Equipment Development Consultant/Manager### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a><a href="https://near.academy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/near-colored.svg" width="36" height="36" alt="Near" /></a>
                     </p>
                     
-
-                    
-
                   ### Socials
                   
                   
